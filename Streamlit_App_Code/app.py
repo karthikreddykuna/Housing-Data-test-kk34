@@ -23,7 +23,7 @@ exported_pipeline.fit(training_features, training_target)
 
 ######################
 # User defined values
-title = 'Housing-Data for Streamlit'
+title = 'Housing-Data Demo for Streamlit'
 encoder_location = 'https://github.com/karthikreddykuna/Housing-Data-test-kk34/blob/master/Streamlit_App_Code/encoder.pkl?raw=true'
 target_encoder_location = ''
 if len(encoder_location) > 5:
